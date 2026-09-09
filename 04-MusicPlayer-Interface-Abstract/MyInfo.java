@@ -1,4 +1,3 @@
-// คลาส MyInfo เป็น entry point: เก็บ main method ไว้ให้ JVM เรียกตอนรัน
 public class MyInfo {
     public static void main(String[] args) {
         // สร้าง object จาก concrete class ทั้งสองตัว
